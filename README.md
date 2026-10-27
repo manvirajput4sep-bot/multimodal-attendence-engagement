@@ -1,4 +1,5 @@
-# Multimodal Attendance & Engagement Agent — MVP
+#
+ Multimodal Attendance & Engagement Agent — MVP
 
 An offline-first classroom analytics prototype built with Python, Streamlit, OpenCV, SQLite, Pandas, and Plotly.
 
@@ -72,3 +73,4 @@ Multimodal_Attendance_Engagement_Agent/
 - Prefer local processing and minimal data retention.
 - Do not infer sensitive traits or use the score for grading, discipline, or other high-stakes decisions.
 - Delete source recordings after processing.
+
